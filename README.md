@@ -1,16 +1,27 @@
-# ssl_pin
+# Pinning SSL in Flutter (EN)
 
-A new Flutter project.
+## Setup
+ - Open **ssl_pinning** file with **Visual Studio Code**
+ - Run this command on the terminal `flutter pub get`
+ - And finally `flutter run`
 
-## Getting Started
+**Training Video on Youtube** 
+Subscribe and like => [Splash Screen Yapımı #Flutter](https://youtu.be/BuGjLwdOfwo)
 
-This project is a starting point for a Flutter application.
+**Our Blog**
+Yazilim Karavani => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Flutter SSL Sertifikası Sabitleme(TR)
+
+## Kurulum
+ - **ssl_pinning** dosyasını **Visual Studio Code** ile açın
+ - Terminalde `flutter pub get` komutunu çalıştırın
+ - Ve son olarak `flutter run`
+
+**Eğitim Videosu YouTube'da** 
+Abone olmayı ve beğenmeyi unutmayın => [SSL Sertifikası Sabitleme - Flutter (SSL Pinning)](https://youtu.be/ovFqnQ88xHo)
+
+**Blogumuz**
+Yazılım Karavanı => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
