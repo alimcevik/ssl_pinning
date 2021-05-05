@@ -6,7 +6,7 @@
  - And finally `flutter run`
 
 **Training Video on Youtube** 
-Subscribe and like => [Splash Screen Yapımı #Flutter](https://youtu.be/BuGjLwdOfwo)
+Subscribe and like => [SSL Sertifikası Sabitleme - Flutter (SSL Pinning)](https://youtu.be/BuGjLwdOfwo)
 
 **Our Blog**
 Yazilim Karavani => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
@@ -21,7 +21,7 @@ Yazilim Karavani => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
  - Ve son olarak `flutter run`
 
 **Eğitim Videosu YouTube'da** 
-Abone olmayı ve beğenmeyi unutmayın => [SSL Sertifikası Sabitleme - Flutter (SSL Pinning)](https://youtu.be/ovFqnQ88xHo)
+Abone olmayı ve beğenmeyi unutmayın => [SSL Sertifikası Sabitleme - Flutter (SSL Pinning)](https://youtu.be/BuGjLwdOfwo)
 
 **Blogumuz**
 Yazılım Karavanı => [www.yazilimkaravani.net](https://www.yazilimkaravani.net)
